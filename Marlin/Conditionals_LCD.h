@@ -112,6 +112,7 @@
 
   // Generic support for SSD1306 / SH1106 OLED based LCDs.
   #if ENABLED(U8GLIB_SSD1306) || ENABLED(U8GLIB_SH1106)
+    #define ULTIPANEL
     #define ULTRA_LCD  //general LCD support, also 16x2
     #define DOGLCD  // Support for I2C LCD 128x64 (Controller SSD1306 / SH1106 graphic Display Family)
   #endif

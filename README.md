@@ -1,3 +1,9 @@
+# thnikk's Marlin Customizations
+This is mostly for personal use. It does include some changes that may be useful for you if you are using a:
+-Printrbot Play
+-Printrbot Simple with a RAMPS
+-Hypercube using a RAMPS
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
